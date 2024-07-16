@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gastonluiscocco
 - 👀 I’m interested in cloud compute, analytics and GNU/Linux
-- 🌱 I’m currently learning script in BASH
+- 🌱 I’m currently learning scripting in BASH
 //- 💞️ I’m looking to collaborate on ...
 //- 📫 How to reach me ...
 - 😄 Pronouns: He
